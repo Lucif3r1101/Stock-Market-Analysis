@@ -1,2 +1,2 @@
-# Volcano-Prediction
-Using Machine Learning to predict that volcano is active or dormant
+# Stock Market
+Using Machine Learning to predict that the behavior of Stock Market using Financial Dataset
